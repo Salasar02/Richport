@@ -463,52 +463,31 @@
 
 			<Trader> Weapon Supplies
 
-<Category> Ammunition									
-	//Ammo_12gaPellets,		1,		3,		1
-	//Ammo_12gaSlug,		1,		4,		2
-	//Ammo_308Win,			1,		5,		3
-	//Ammo_357,			1,		5,		0
-	//Ammo_380,			1,		1,		0
-	//Ammo_45ACP,			1,		1,		0
-	//Ammo_556x45,			1,		5,		3
-	//Ammo_762x39,			1,		5,		3
-	//Ammo_762x54,			1,		10,		6
-	//Ammo_9x19,			1,		1,		0
-	//Ammo_9x39,			1,		4,		2
-	//Ammo_9x39AP,			1,		5,		3
-	//Bullet_12x99,			*,		500,		250
-	//Bullet_12x99TracerGreen,	*,		500,		250
-	//Bullet_12x99TracerYell,	*,		500,		250
-	//Bullet_762x25,		*,		500,		250
-	//Bullet_762x33,		*,		500,		250
-	//Bullet_792x57,		*,		500,		250
-	//Bullet_9x39Tracer,		*,		500,		250
+<Category> Vanilla Ammunition (full stacks)								
+	Ammo_12gaPellets,		*,		50,		10
+	Ammo_12gaSlug,			*,		200,		50
+	Ammo_22,			*,		50,		10
+	Ammo_308Win,			*,		500,		150
+	Ammo_308WinTracer,		*,		150,		50
+	Ammo_380,			*,		50,		10
+	Ammo_45ACP,			*,		100,		25
+	Ammo_545x39,			*,		300,		60
+	Ammo_545x39Tracer,		*,		300,		60
+	Ammo_556x45,			*,		400,		100
+	Ammo_556x45Tracer,		*,		400,		100
+	Ammo_762x39,			*,		400,		100
+	Ammo_762x39Tracer,		*,		400,		100
+	Ammo_762x54,			*,		500,		150
+	Ammo_762x54Tracer,		*,		500,		150
+	Ammo_9x19,			*,		100,		25
+	Ammo_9x39,			*,		250,		50
+	Ammo_9x39AP,			*,		400,		100
 		// When changing Prices here keep in Mind that Players							
 		// can just unpack the Ammoboxes and sell the Ammo seperatly!							
 		// Originally the Ammoboxes buying Price is 20% less than							
 		// buying single Ammo. The Selling Price is the same as							
 		// selling the Ammo seperately.							
-	AmmoBox_00buck_10rnd,		*,		50,		25
-	AmmoBox_12gaBB,			*,		25,		10
-	AmmoBox_12gaSlug_10Rnd,		*,		75,		50
-	AmmoBox_12x99_10Rnd,		*,		500,		250
-	AmmoBox_12x99_10Rnd_TracerGreen,*,		500,		250
-	AmmoBox_12x99_10Rnd_TracerYell,	*,		500,		250
-	AmmoBox_308Win_20Rnd,		*,		80,		40
-	AmmoBox_338,			*,		500,		250	
-	AmmoBox_380_35rnd,		*,		25,		10
-	AmmoBox_408Chey,		*,		500,		250
-	AmmoBox_45ACP_25rnd,		*,		50,		25
-	AmmoBox_556x45_20Rnd,		*,		100,		50
-	AmmoBox_762x25_25Rnd,		*,		500,		250
-	AmmoBox_762x33_20Rnd,		*,		500,		250
-	AmmoBox_762x39_20Rnd,		*,		100,		50
-	AmmoBox_762x54_20Rnd,		*,		200,		100
-	AmmoBox_792x57_25Rnd,		*,		500,		250
-	AmmoBox_9x19_25rnd,		*,		25,		10
-	AmmoBox_9x39_20Rnd,		*,		50,		25
-	AmmoBox_9x39_20Rnd_Tracer,	*,		50,		25
-	AmmoBox_9x39AP_20Rnd,		*,		50,		25
+
 
 	<Category> WeaponRedux
 	    GP_Colt1911,					W,		200,	100
