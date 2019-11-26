@@ -3014,6 +3014,7 @@
 	MSFC_Tigr308,				W,		75000,		10000
 	MSFC_AKCR2019,				W,		75000,		10000
 	MSFC_AK15M,				W,		75000,		10000
+	MSFC_AK15MR_Green,			W,		75000,		10000
 	MSFC_AK12M,				W,		75000,		10000
 	MSFC_AK13M,				W,		75000,		10000
 	MSFC_RPK74,				W,		75000,		10000	
@@ -3388,22 +3389,22 @@
 //        MSFC_STANAG556_Mag_30Rnd,                               *,      625,     310
 //        MSFC_RPK74_Mag_45Rnd,                                   *,      625,     310
 //        MSFC_DRUM762_Mag_75Rnd,                                 *,      625,     310
-	MSFC_Mag_AK101_30Rnd_WHITE,									*,		350,		125
-	MSFC_Mag_AK74_30Rnd_WHITE,									*,		350,		125
-	MSFC_Mag_AKM_Drum75Rnd_WHITE,								*,		350,		125
-	MSFC_Mag_AKM_Palm30Rnd_WHITE,								*,		350,		125
-	MSFC_PMAG556_Mag_30Rnd,										*,		500,		250
-	MSFC_PMAG556_Mag_30Rnd_Desert,								*,		350,		125
-	MSFC_PMAG556_Mag_30Rnd_Green,								*,		350,		125
-	MSFC_PMAG762_Mag_30Rnd,										*,		500,		250
-	MSFC_PMAG762_Mag_30Rnd_Desert,								*,		350,		125
-	MSFC_PMAG762_Mag_30Rnd_Green,								*,		350,		125
-	MSFC_RPK_Mag_45Rnd,											*,		350,		125
-	MSFC_RPK16_DRUM_Mag_96Rnd,									*,		500,		250
-	MSFC_RPK74_Mag_45Rnd,										*,		500,		250
-	MSFC_SCAR17_Mag_20Rnd,										*,		350,		125
-	MSFC_STANAG556_Mag_30Rnd,									*,		500,		250
-	MSFC_Tigr308_10_Rnd,										*,		350,		125
+	MSFC_Mag_AK101_30Rnd_WHITE,				*,		350,		125
+	MSFC_Mag_AK74_30Rnd_WHITE,				*,		350,		125
+	MSFC_Mag_AKM_Drum75Rnd_WHITE,				*,		350,		125
+	MSFC_Mag_AKM_Palm30Rnd_WHITE,				*,		350,		125
+	MSFC_PMAG556_Mag_30Rnd,					*,		500,		250
+	MSFC_PMAG556_Mag_30Rnd_Desert,				*,		350,		125
+	MSFC_PMAG556_Mag_30Rnd_Green,				*,		350,		125
+	MSFC_PMAG762_Mag_30Rnd,					*,		500,		250
+	MSFC_PMAG762_Mag_30Rnd_Desert,				*,		350,		125
+	MSFC_PMAG762_Mag_30Rnd_Green,				*,		350,		125
+	MSFC_RPK_Mag_45Rnd,					*,		350,		125
+	MSFC_RPK16_DRUM_Mag_96Rnd,				*,		500,		250
+	MSFC_RPK74_Mag_45Rnd,					*,		500,		250
+	MSFC_SCAR17_Mag_20Rnd,					*,		350,		125
+	MSFC_STANAG556_Mag_30Rnd,				*,		500,		250
+	MSFC_Tigr308_10_Rnd,					*,		350,		125
 		
 <Category> SQUAD MSF-C Weapon Attachments
         MSFC_AK_Zenitco_Handguard,                              *,      500,     250
